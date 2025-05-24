@@ -32,4 +32,4 @@ const countChar2 = (str,char) =>{
     return count;
   }
 console.log(countChar1("MISSISSIPI","i"));
-console.log(countChar2("MISSISSIPI","i"));
+console.log(countChar2("MISSISSIPi","I"));
